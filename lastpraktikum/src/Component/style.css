@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("kotak.jpg");
+    background-color: #cccccc;
+   }
+
+.container ul li a{
+    margin: 15px;
+    list-style-type: disc;
+    color: black;
+    float: right; 
+}
+
+.container nav{
+    z-index: 10;
+    background-color: white;
+}
